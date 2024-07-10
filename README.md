@@ -2,4 +2,3 @@
 - I am a student at RIT studying Cyber Security.
 - This GitHub contains personal projects such as games, class assignments, practice exercises, scripts, etc.
 - My aim is to grow as a programmer, keep track of my progress, and to use all of these files as references in the future.
-- You can contact me at my personal email, gpundt18@gmail.com, or on discord @ApeSnake#4208!
