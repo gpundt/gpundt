@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gpundt
 - I am a student at RIT studying Cyber Security.
-- This GitHub contains personal projects such as games, class assignments, practice exercises, scripts, etc.
-- My aim is to grow as a programmer, keep track of my progress, and to use all of these files as references in the future.
+- This Git page is to track my progress of personal projects, class assignments, and practice activities.
+- LinkedIn: https://www.linkedin.com/in/griffinpundt/ 
