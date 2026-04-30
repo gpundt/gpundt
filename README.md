@@ -1,4 +1,19 @@
-- 👋 Hi, I’m @gpundt
-- I am a student at RIT studying Cyber Security.
-- This Git page is to track my progress of personal projects, class assignments, and practice activities.
+### Overview
+
+This holds projects for my homelab.
+
+#### Languages Used
+- Python
+- Golang
+- HTML
+- Bash
+
+#### Frameworks / Tech Used
+- FastAPI / REST API
+- Bubbletea / Lipgloss
+- Ansible
+- Selenium Webdriver
+- Exif
+
+#### Socials
 - LinkedIn: https://www.linkedin.com/in/griffinpundt/ 
