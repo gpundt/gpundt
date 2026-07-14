@@ -5,6 +5,7 @@ This holds projects for my homelab.
 #### Languages Used
 - Python
 - Golang
+- Rust
 - HTML
 - Bash
 
@@ -12,8 +13,6 @@ This holds projects for my homelab.
 - FastAPI / REST API
 - Bubbletea / Lipgloss
 - Ansible
-- Selenium Webdriver
-- Exif
 
 #### Socials
 - LinkedIn: https://www.linkedin.com/in/griffinpundt/ 
